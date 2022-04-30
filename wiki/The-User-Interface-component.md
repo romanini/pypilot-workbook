@@ -25,4 +25,4 @@ Last, but not least, there is a very special pypilot interface, that takes the s
 So these four user interfaces all have in common that they interface to the pypilot system through this blackboard module, that is part of the pypilot software. The real pypilot functions are defined by the pypilot software; the user interfaces only make them available to you. So now it is time to describe what those pypilot functions really are.
 
 ***
-[Pypilot functions >>>](Pypilot-functions)
+[Pypilot functions >>>](Pypilot-functions.md)
