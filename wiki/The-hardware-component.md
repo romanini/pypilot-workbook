@@ -17,4 +17,4 @@ On the pypilot.org web site and in common conversation, the Arduino controller w
 
 
 ***
-[The User Interface component >>>](The-User-Interface-component)
+[The User Interface component >>>](The-User-Interface-component.md)
