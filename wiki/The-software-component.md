@@ -18,4 +18,4 @@ Pypilot runs on linux, but it was developed on Raspbian, and most implementation
 Another free, open-source distribution that includes pypilot is **LysMarine BBN (Bare Boat Necessities) Edition** https://github.com/bareboat-necessities/lysmarine_gen.
 
 ***
-[The hardware component >>>](The-hardware-component)
+[The hardware component >>>](The-hardware-component.md)
