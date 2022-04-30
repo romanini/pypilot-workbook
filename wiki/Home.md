@@ -7,4 +7,4 @@ Yes, it will be fun to build, but the devil is in the details, and everything wi
 
 For me, I only describe what someone else has created. That person was Sean d'Epagnier and he deserves all the credit for the pypilot. Welcome to the wondrous world of free, open-source autopilots and enjoy the read.
 
-[What is pypilot >>>](What-is-pypilot)
+[What is pypilot >>>](What-is-pypilot.md)
