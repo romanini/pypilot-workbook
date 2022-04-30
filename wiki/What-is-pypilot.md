@@ -6,4 +6,4 @@ Pypilot is an autopilot _system_. It has multiple components that can be configu
 After we've done that, we will describe everything one level deeper. Then, with two levels of understanding in our pocket, we will dive into the real thing, gettings things working and filling the gap between grass-roots reality and the conceptual understanding we're now about to build. After that, you have seen it all once, and then we can have little specialistic chapters for the real pypilot lovers.
 
 ***
-[The software component >>>](The-software-component)
+[The software component >>>](The-software-component.md)
