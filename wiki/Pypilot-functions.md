@@ -62,4 +62,4 @@ From then on, the 2D compass calibration will continue to take place. There is a
 We will finish this at a later point in time.
 
 ***
-[Data connections >>>](Data-connections)
+[Data connections >>>](Data-connections.md)
