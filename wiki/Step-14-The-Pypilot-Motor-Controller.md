@@ -35,4 +35,4 @@ Then, go to Raspberry->Openplotter->Serial, and click on UART. It will turn grey
 
 After the reboot the RxD light on the arduino should be off. Then you can run pypilot on the console and check the output. You should see that it finds an arduino controller on the /dev/ttyAMA0 interface. At that point, the Rxd and Txd lights on the arduino should blink very quickly, like 4 blinks per second. All your pypilot user interfaces should indicate the presence of a motor controller.
 
- * [Step 15: Understanding motor.ino](Step-15-Understanding-motor.ino)
+ * [Step 15: Understanding motor.ino](Step-15-Understanding-motor.ino.md)
