@@ -30,4 +30,4 @@ If you don't have an infrared sensor, set pi.ir to False in ~/.pypilot/hat.conf
 
 
 ***
-[Step 6: The Arduino controller >>>](Step-6-The-Arduino-controller)
+[Step 6: The Arduino controller >>>](Step-6-The-Arduino-controller.md)
