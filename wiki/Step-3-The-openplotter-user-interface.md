@@ -16,4 +16,4 @@ Let’s have a look at a few parts of the user interface that are relevant for n
 We have gotten our bearings around the first pypilot User Interface. This was the openplotter one. Almost all functions that we have seen here are also available in other user interfaces.
 
 ***
-[Step 4: The browser interface >>>](Step-4-The-browser-interface)
+[Step 4: The browser interface >>>](Step-4-The-browser-interface.md)
