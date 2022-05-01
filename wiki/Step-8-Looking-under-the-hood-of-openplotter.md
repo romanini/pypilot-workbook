@@ -123,4 +123,4 @@ sudo python3 setup.py install
 <sup>1</sup> In case you are really interested in the python distrbibution mechanism, read up [here](https://setuptools.readthedocs.io/en/latest/pkg_resources.html); if you are just nosey just eyeball the console scripts and connect the dots in  `/usr/local/lib/python3.7/dist-packages/pypilot-0.24-py3.7-linux-armv7l.egg/EGG-INFO/entry_points.txt` _mutatis mutandis_.
 ***
 
-[Step 9: Wiring up the Nano >>>](Step-9-Wiring-up-the-Nano)
+[Step 9: Wiring up the Nano >>>](Step-9-Wiring-up-the-Nano.md)
