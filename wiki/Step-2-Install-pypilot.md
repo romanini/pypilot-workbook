@@ -24,4 +24,4 @@ When it’s done, you will see a new menu item Raspberry&#8594;Openplotter&#8594
 
 ***
 
-[Step 3: The openplotter user interface >>>](Step-3-The-openplotter-user-interface)
+[Step 3: The openplotter user interface >>>](Step-3-The-openplotter-user-interface.md)
