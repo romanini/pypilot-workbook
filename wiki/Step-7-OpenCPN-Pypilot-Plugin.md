@@ -18,4 +18,4 @@ This is my favourite interface. It is slick and snappy. I am a keen OpenCPN user
 * At the time of writing, this did not work immediately: the plugin shows 'disconnected', despite pypilot being up and the host address being correct. A quick check reveals the cause: the pypilot software version that is installed by openplotter is old (v0.16), and still listens on the old internal port signalk/21311, instead of the new one pypilotServer/23322; to which port the spanking new OpenCPN plugin is trying to connect to.
 * If that is the case, [upgrade pypilot](Step-8-Looking-under-the-hood-of-openplotter#upgrading-pypilot). This is described in the next step.
 ***
-[Step 8: Looking under the hood >>>](Step-8-Looking-under-the-hood-of-openplotter)
+[Step 8: Looking under the hood >>>](Step-8-Looking-under-the-hood-of-openplotter.md)
