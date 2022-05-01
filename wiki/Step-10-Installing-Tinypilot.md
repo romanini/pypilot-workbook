@@ -38,4 +38,4 @@ You can now go to the OpenCPN plugin on your openplotter machine. When you chang
 
 
 ***
-[Step 11 Tinypilot under the hood >>>](Step-11-Tinypilot-under-the-hood)
+[Step 11 Tinypilot under the hood >>>](Step-11-Tinypilot-under-the-hood.md)
