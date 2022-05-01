@@ -75,7 +75,7 @@ So in short, to get signalk zeroconf working:
 > <sup>1</sup> For historic and completeness purposes, the openplotter background script resides at `/usr/lib/python3/dist-packages/openplotterPypilot/openplotterPypilotRead.py` and runs as a systemd service named `openplotter-pypilot-read`. The current version is incompatible with the latest version of pypilot, but the latest version of pypilot includes the signalk zeroconf client.
 
 ***
-[Step 14: The Pypilot Motor Controller >>> ](Step-14-The-Pypilot-Motor-Controller)
+[Step 14: The Pypilot Motor Controller >>> ](Step-14-The-Pypilot-Motor-Controller.md)
 
 * There is still an error in the log; I haven't figured out yet where this comes from but it does not seem to matter. 
 * This might be related to the known issue is that pypilot connects to any other device that is advertised on mdns https://github.com/pypilot/pypilot/issues/89
