@@ -18,4 +18,4 @@ To install openplotter, just follow the instructions on [this link](https://open
 * Don’t forget to treat yourself to something nice! You’ve achieved the first step.
 
 ***
-[Step 2: Install pypilot >>>](Step-2-Install-pypilot)
+[Step 2: Install pypilot >>>](Step-2-Install-pypilot.md)
