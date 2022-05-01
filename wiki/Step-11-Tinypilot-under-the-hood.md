@@ -104,4 +104,4 @@ serialprobe success: /home/tc/.pypilot/servodevice [u'/dev/serial/by-id/usb-1a86
 
 
 ***
-[Step 12: Using openplotter tools remotely](Step-12-Using-openplotter-tools-remotely)
+[Step 12: Using openplotter tools remotely](Step-12-Using-openplotter-tools-remotely.md)
