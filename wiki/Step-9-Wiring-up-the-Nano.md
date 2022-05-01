@@ -31,4 +31,4 @@ In the ‘basic’ and ‘simple’ pilot steering algorithms, the rudder feedba
 For now this ends this little braindump on the electronics. If you are not into electronics, you’d better buy a ready-made Pypilot Motor Controller. 
 
 ***
-[Step 10: Installing Tinypilot >>>](Step-10-Installing-Tinypilot)
+[Step 10: Installing Tinypilot >>>](Step-10-Installing-Tinypilot.md)
