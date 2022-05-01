@@ -7,4 +7,4 @@ It must be said, however, that to divert from the reference architecture, you ha
 So these are a bit of the rules of the game to keep in the back of your mind when you go through the following steps. Even if you understand it all, it might still be a wise decision to buy the standard hardware off the pypilot.org store. It all depends on own your preferences and inclinations. Enjoy the next part of the workbook!
 
 ***
-[Step 1: Install Openplotter Headless >>>](Step-1-Install-Openplotter-Headless)
+[Step 1: Install Openplotter Headless >>>](Step-1-Install-Openplotter-Headless.md)
