@@ -27,5 +27,5 @@ pi@openplotter:~ $ pypilot_calibration
 ```
 This does not only apply for when you invoke these scripts from the command line, but also when you invoke them from the openplotter interface: from then on, your pypilot is the external one. If you ask me, this is a good example of how well-implemented a modular architecture can be.
 ***
-[Step 13: SignalK connections >>>](Step-13-SignalK-connections)
+[Step 13: SignalK connections >>>](Step-13-SignalK-connections.md)
 
