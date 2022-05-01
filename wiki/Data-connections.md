@@ -71,4 +71,4 @@ Until recently, making these external data connections with NMEA messages over T
 
 
 ***
-[The Steps >>>](The-Steps)
+[The Steps >>>](The-Steps.md)
