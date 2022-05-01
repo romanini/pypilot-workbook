@@ -23,4 +23,4 @@ We are doing this step just to recognize what functionality starts working at wh
 * If you enable the autopilot (‘AP’) you should see the word ‘Engaged’ in the autopilot control, and on the Arduino another red LED should burn.
 * There will be random error messages next to the word SYNC, and this can be expected. These error messages are called ‘flags’ in pypilot parlour, and at this point they are caused by the input pins on the Arduino being left open. Open input pins are bad practice in electronics; if they are left 'floating' they are susceptible to electrostatic influences and worse, damage.
 ***
-[Step 7: OpenCPN plugin >>>](Step-7-OpenCPN-Pypilot-Plugin)
+[Step 7: OpenCPN plugin >>>](Step-7-OpenCPN-Pypilot-Plugin.md)
