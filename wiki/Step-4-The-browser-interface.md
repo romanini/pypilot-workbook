@@ -19,4 +19,4 @@ sudo pip3 install "flask-socketio<5" "python-socketio<5"
 > Note: if you run pypilot_web [at the prompt](https://github.com/pypilotWorkbook/workbook/wiki/Step-8-Looking-under-the-hood-of-openplotter#running-pypilot-at-the-prompt), for debugging purposes, it serves at port 8000 instead of 8080, so you need to type http://10.10.10.1:8000.
 
 ***
-[Step 5: The HAT interface >>>](Step-5-The-HAT-interface)
+[Step 5: The HAT interface >>>](Step-5-The-HAT-interface.md)
